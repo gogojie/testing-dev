@@ -6,5 +6,5 @@ node_modules
 .env
 .prettierignore
 .jekyll-metadata
-testing/node_modules/
-testing/build/
+testing-react/node_modules/
+testing-react/build/
