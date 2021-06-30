@@ -1,6 +1,6 @@
 {
-  "homepage": "https://gogojie.github.io/testing-dev/",
   "name": "dev-test",
+  "homepage": "http://gogojie.github.io/testing-dev/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
