@@ -13,10 +13,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "purge": "rm -rf ../testing-devs/static && cp -fR ./build/* ../testing-devs",
-    "frontmatter": "echo '---\ntitle: Testing Devs\nlayout: null\n---\n' | cat - ../testing-devs/index.html > temp && mv temp ../testing-devs/index.html",
-    "deploy": "npm run purge && npm run frontmatter",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
