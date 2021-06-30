@@ -125,6 +125,6 @@ exclude:
     "gulpfile.js",
     "node_modules",
     "package.json",
-    "testing-react",
+    "dev-test",
   ]
 
